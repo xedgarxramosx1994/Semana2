@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 x:Class="eramos_TallerS2.Views.vHome"
+			 Title="vHome">
+    <ScrollView>
+        <VerticalStackLayout Spacing="25" Margin="20">
+            <Label 
+			Text="Sistema de Calificaciones!"
+			FontSize="25"
+			TextColor="#03045e"
+			VerticalOptions="Center" 
+			HorizontalOptions="Center" />
+            <Label
+			Text="PARCIAL 1"
+			TextColor="#0077b6"></Label>
+            <Picker x:Name="pkEstudiantes"
+				Title="Estudiantes">
+                <Picker.Items>
+                    <x:String>Edgar Ramos</x:String>
+                    <x:String>Mario Valencia</x:String>
+                    <x:String>Andres Cabrera</x:String>
+                    <x:String>Shirley Sandoval</x:String>
+                    <x:String>Freddy Chamorro</x:String>
+                    <x:String>Panita Limón</x:String>
+                </Picker.Items>
+            </Picker>
+            <Entry x:Name="txtSeguimiento"
+			   Placeholder="Ingrese el número del seguimiento"
+			   Keyboard="Numeric"
+			   MaxLength="4"/>
+            <Entry x:Name="txtExamen"
+				   Placeholder="Ingrese número del examen"
+				   Keyboard="Numeric"
+				   MaxLength="2"/>
+            <Label x:Name="txtParcial1"
+				Text="Nota parcial 1:" 
+				FontSize="15"
+				TextColor="#8338ec"></Label>
+
+            <Label
+	Text="PARCIAL 2"
+	TextColor="#0077b6"></Label>
+            <Entry x:Name="txtSeguimiento2"
+   Placeholder="Ingrese el número del seguimiento 2"
+   Keyboard="Numeric"
+   MaxLength="4"/>
+            <Entry x:Name="txtExamen2"
+	   Placeholder="Ingrese número del examen 2"
+	   Keyboard="Numeric"
+	   MaxLength="2"/>
+            <Label x:Name="txtParcial2"
+	Text="Nota parcial 2:" 
+	FontSize="15"
+	TextColor="#8338ec"></Label>
+            <DatePicker x:Name="dpFecha"
+					Format="yyyy/MM/dd"></DatePicker>
+            <Label x:Name="txtFinal"
+Text="Nota Final:" 
+FontSize="15"
+TextColor="#8338ec"></Label>
+            <Button x:Name="btnCalcular"
+		Text="Calcular"
+		Clicked="btnCalcular_Clicked"></Button>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
