@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eramos_TallerS2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9d16293f04ab48c1b7a3493e83c22a456f758003")]
 [assembly: System.Reflection.AssemblyProductAttribute("eramos_TallerS2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eramos_TallerS2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
