@@ -303,6 +303,7 @@
 /Users/xedgarxramosx/Documents/Proyectos MAUI/Semana 2/eramos_TallerS2/obj/Debug/net8.0-ios/iossimulator-arm64/eramos_TallerS2.AssemblyInfoInputs.cache
 /Users/xedgarxramosx/Documents/Proyectos MAUI/Semana 2/eramos_TallerS2/obj/Debug/net8.0-ios/iossimulator-arm64/eramos_TallerS2.AssemblyInfo.cs
 /Users/xedgarxramosx/Documents/Proyectos MAUI/Semana 2/eramos_TallerS2/obj/Debug/net8.0-ios/iossimulator-arm64/eramos_TallerS2.csproj.CoreCompileInputs.cache
+/Users/xedgarxramosx/Documents/Proyectos MAUI/Semana 2/eramos_TallerS2/obj/Debug/net8.0-ios/iossimulator-arm64/eramos_TallerS2.sourcelink.json
 /Users/xedgarxramosx/Documents/Proyectos MAUI/Semana 2/eramos_TallerS2/obj/Debug/net8.0-ios/iossimulator-arm64/XamlC.stamp
 /Users/xedgarxramosx/Documents/Proyectos MAUI/Semana 2/eramos_TallerS2/obj/Debug/net8.0-ios/iossimulator-arm64/eramos_T.DF2C616A.Up2Date
 /Users/xedgarxramosx/Documents/Proyectos MAUI/Semana 2/eramos_TallerS2/obj/Debug/net8.0-ios/iossimulator-arm64/eramos_TallerS2.dll
